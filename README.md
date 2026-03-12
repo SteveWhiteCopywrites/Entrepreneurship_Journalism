@@ -9,3 +9,6 @@ The publication featured interviews, profiles and feature reporting on leading U
 
 ![Entrepreneurs GB Magazine cover](gbe_header.JPG)
 
+## Entrepreneur Interviews
+
+![Entrepreneur interviews](fear_aitken_spread.jpg)
