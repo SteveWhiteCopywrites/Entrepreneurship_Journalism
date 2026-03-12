@@ -7,5 +7,5 @@ The publication featured interviews, profiles and feature reporting on leading U
 
 ## Entrepreneurs GB Magazine – Spring 2018
 
-![Entrepreneurs GB Magazine cover](gbe_header.jpg)
+![Entrepreneurs GB Magazine cover](gbe_header.JPG)
 
