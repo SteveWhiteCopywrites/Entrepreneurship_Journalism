@@ -11,4 +11,7 @@ The publication featured interviews, profiles and feature reporting on leading U
 
 ## Entrepreneur Interviews
 
+Interview features from *Entrepreneurs GB Magazine* exploring the experiences and perspectives of UK entrepreneurs and business leaders.
+
+Profiles include entrepreneur and investor Stephen Fear, rising founder Kieran Aitken, and leadership expert Brian Chernett.
 ![Entrepreneur interviews](fear.png)
