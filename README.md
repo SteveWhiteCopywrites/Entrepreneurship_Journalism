@@ -11,4 +11,4 @@ The publication featured interviews, profiles and feature reporting on leading U
 
 ## Entrepreneur Interviews
 
-![Entrepreneur interviews](fear_aitken_spread.jpg)
+![Entrepreneur interviews](fear.png)
