@@ -16,8 +16,11 @@ Profiles from *Entrepreneurs GB Magazine* exploring the experiences and perspect
 Profiles include entrepreneur and investor Stephen Fear, rising founder Kieran Aitken, and leadership expert Brian Chernett.
 ![Entrepreneur interviews](fear.png)
 
-## Features and Editorial
+## Entrepreneur Features and Editorial
 
 A selection of feature reporting and editorial profiles from *Entrepreneurs GB Magazine*, highlighting emerging companies, founder stories and the wider UK startup ecosystem.
 
 This section highlights the story of entrepreneur Ben Clifford, and Birmingham-born Angus Drummond, both of whom have overcome considerable personal challenges to succeed in business.
+![Entrepreneur_Features_and_Editorial](.png)
+
+## Tech Interviews
