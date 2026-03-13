@@ -37,3 +37,4 @@ Examples of short-form editorial writing and caption copy produced for *Entrepre
 
 This work includes entrepreneur mini-profiles, product features and curated list content written to accompany editorial photography and award coverage.
 ![Editorial copy examples](gbea_copy.png)
+![List and caption copy](lists.jpg)
