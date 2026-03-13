@@ -6,7 +6,6 @@ During my time working with the Great British Entrepreneur Awards, I served as *
 The publication featured interviews, profiles and feature reporting on leading UK entrepreneurs, startup founders and emerging businesses.
 
 ## Entrepreneurs GB Magazine – Spring 2018
-
 ![Entrepreneurs GB Magazine cover](gbe_header.JPG)
 
 ## Entrepreneur Profiles, Q&A
@@ -28,7 +27,13 @@ This section highlights the story of entrepreneur Ben Clifford, and Birmingham-b
 ### Amplifi: The First Unicorn in the Land of Dragons?
 
 A feature exploring the growth of Cardiff-based technology company AMPLIFI and the rise of the Welsh startup ecosystem.
-
 ![Amplifi feature page 1](amplyfi.png)
 
 ![Amplifi feature page 2](am1.png)
+
+## Short-Form Editorial and Copywriting
+
+Examples of short-form editorial writing and caption copy produced for *Entrepreneurs GB Magazine*.
+
+This work includes entrepreneur mini-profiles, product features and curated list content written to accompany editorial photography and award coverage.
+![Editorial copy examples](gbea_copy.png)
