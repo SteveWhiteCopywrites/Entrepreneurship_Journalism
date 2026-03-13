@@ -9,7 +9,7 @@ The publication featured interviews, profiles and feature reporting on leading U
 
 ![Entrepreneurs GB Magazine cover](gbe_header.JPG)
 
-## Entrepreneur Interviews
+## Entrepreneur Profiles, Q&A
 
 Interview features from *Entrepreneurs GB Magazine* exploring the experiences and perspectives of UK entrepreneurs and business leaders.
 
