@@ -16,11 +16,19 @@ Profiles from *Entrepreneurs GB Magazine* exploring the experiences and perspect
 Profiles include entrepreneur and investor Stephen Fear, rising founder Kieran Aitken, and leadership expert Brian Chernett.
 ![Entrepreneur interviews](fear.png)
 
-## Entrepreneur Features and Editorial
+## Entrepreneur Features
 
-A selection of feature reporting and editorial profiles from *Entrepreneurs GB Magazine*, highlighting emerging companies, founder stories and the wider UK startup ecosystem.
+A selection of features from *Entrepreneurs GB Magazine*, highlighting emerging companies, founder stories and the wider UK startup ecosystem.
 
 This section highlights the story of entrepreneur Ben Clifford, and Birmingham-born Angus Drummond, both of whom have overcome considerable personal challenges to succeed in business.
 ![Entrepreneur_Features_and_Editorial](features.png)
 
-## Tech Interviews
+## Tech Reporting
+
+### Amplifi: The First Unicorn in the Land of Dragons?
+
+A feature exploring the growth of Cardiff-based technology company AMPLIFI and the rise of the Welsh startup ecosystem.
+
+![Amplifi feature page 1](amplyfi.png)
+
+![Amplifi feature page 2](am1.png)
