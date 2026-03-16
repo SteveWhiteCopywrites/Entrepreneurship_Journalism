@@ -10,7 +10,7 @@ The publication featured interviews, profiles and feature reporting on leading U
 
 ## Entrepreneur Profiles, Q&A
 
-Profiles from *Entrepreneurs GB Magazine* exploring the experiences and perspectives of UK entrepreneurs and business leaders, including Go.Compare founder Hayley Parsons OBE, MOBO Awards CEO Kanya King CBE, and "The Phonebox Millionnaire" Stephen Fear.
+Profiles from *Entrepreneurs GB Magazine* exploring the experiences and perspectives of major UK entrepreneurs and business leaders, including Go.Compare founder Hayley Parsons OBE, MOBO Awards CEO Kanya King CBE, and "The Phonebox Millionnaire" Stephen Fear.
 
 ### Hayley Parsons OBE
 Hayley Parsons, Welsh entrepreneur and founder of the price comparison website Go.Compare.
@@ -37,8 +37,11 @@ Bristol-born entrepreneur property magnate, Stephen Fear, founder of The Fear Gr
 
 A selection of features from *Entrepreneurs GB Magazine*, highlighting emerging companies, founder stories and the wider UK startup ecosystem.
 
-This section highlights the story of entrepreneur Ben Clifford, and Birmingham-born Angus Drummond, both of whom have overcome considerable personal challenges to succeed in business.
+This section highlights the story of entrepreneur Ben Clifford, Birmingham-born Angus Drummond, and Liverpool's Joseph Clarke, each of whom have overcome considerable personal challenges to succeed in business.
+
 ![Entrepreneur_Features_and_Editorial](features.png)
+
+![Entrepreneur_Features_and_Editorial](ball1.png)
 
 ## Tech Reporting
 
