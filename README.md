@@ -52,6 +52,15 @@ A feature exploring the growth of Cardiff-based technology company AMPLIFI and t
 
 ![Amplifi feature page 2](am1.png)
 
+## Entrepreneur Q&A
+
+A series of Q&A interviews with emerging UK entrepreneurs exploring new ventures and the future of British business.
+
+### Matt Jones
+Q&A with Welsh advertising entrepreneur, Matt Jones.
+
+![Entrepreneur Q&A article – example 1](qa_article_1.jpg)
+
 ## Short-Form Editorial and Copywriting
 
 Examples of short-form editorial writing and caption copy produced for *Entrepreneurs GB Magazine*.
