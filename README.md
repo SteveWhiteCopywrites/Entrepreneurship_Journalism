@@ -5,8 +5,8 @@ During my time working with the Great British Entrepreneur Awards, I served as *
 
 The publication featured interviews, profiles and feature reporting on leading UK entrepreneurs, startup founders and emerging businesses.
 
-## Entrepreneurs GB Magazine – Spring 2018
-![Entrepreneurs GB Magazine cover](gbe_header.JPG)
+## Entrepreneurs GB Magazines – Spring 2018 & 2019
+![Entrepreneurs GB Magazine covers](egb_covers.png)
 
 ## Entrepreneur Profiles, Q&A
 
