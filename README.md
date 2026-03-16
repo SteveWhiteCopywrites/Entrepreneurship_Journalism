@@ -28,6 +28,11 @@ Kanya King, founder of the MOBO Awards and one of the most influential figures i
 
 ![Entrepreneur profiles](kk3.png)
 
+###Stephen Fear
+Bristol-born entrepreneur property magnate, Stephen Fear, founder of The Fear Group and known as _The Phonebox Millionnaire_.
+
+![Entrepreneur profiles](fear.png)
+
 ## Entrepreneur Features
 
 A selection of features from *Entrepreneurs GB Magazine*, highlighting emerging companies, founder stories and the wider UK startup ecosystem.
