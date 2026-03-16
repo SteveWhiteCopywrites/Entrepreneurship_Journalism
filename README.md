@@ -14,7 +14,10 @@ Profiles from *Entrepreneurs GB Magazine* exploring the experiences and perspect
 
 # Hayley Parsons
 
-# Kanya King
+
+
+# Kanya King CBE
+Kanya King CBE, founder of the MOBO Awards and one of the most influential figures in championing Black music in the UK.
 
 ![Entrepreneur profiles](kk1.png)
 
