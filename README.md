@@ -10,10 +10,15 @@ The publication featured interviews, profiles and feature reporting on leading U
 
 ## Entrepreneur Profiles, Q&A
 
-Profiles from *Entrepreneurs GB Magazine* exploring the experiences and perspectives of UK entrepreneurs and business leaders.
+Profiles from *Entrepreneurs GB Magazine* exploring the experiences and perspectives of UK entrepreneurs and business leaders, including Go.Compare founder Hayley Parsons, MOBO Awards CEO Kanya King, and "The Phonebox Millionnaire" Stephen Fear.
 
-Profiles include entrepreneur and investor Stephen Fear, rising founder Kieran Aitken, and leadership expert Brian Chernett.
-![Entrepreneur interviews](fear.png)
+#Kanya King
+
+![Entrepreneur profiles](kk1.png)
+
+![Entrepreneur profiles](kk2.png)
+
+![Entrepreneur profiles](kk3.png)
 
 ## Entrepreneur Features
 
