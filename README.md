@@ -57,5 +57,12 @@ A feature exploring the growth of Cardiff-based technology company AMPLIFI and t
 Examples of short-form editorial writing and caption copy produced for *Entrepreneurs GB Magazine*.
 
 This work includes entrepreneur mini-profiles, product features and curated list content written to accompany editorial photography and award coverage.
+
 ![Editorial copy examples](gbea_copy.png)
+
 ![List and caption copy](lists.png)
+
+![Editorial copy examples](shortprofiles.png)
+
+![Editorial copy examples](shortform_copy.png)
+
