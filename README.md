@@ -10,17 +10,17 @@ The publication featured interviews, profiles and feature reporting on leading U
 
 ## Entrepreneur Profiles, Q&A
 
-Profiles from *Entrepreneurs GB Magazine* exploring the experiences and perspectives of UK entrepreneurs and business leaders, including Go.Compare founder Hayley Parsons, MOBO Awards CEO Kanya King, and "The Phonebox Millionnaire" Stephen Fear.
+Profiles from *Entrepreneurs GB Magazine* exploring the experiences and perspectives of UK entrepreneurs and business leaders, including Go.Compare founder Hayley Parsons OBE, MOBO Awards CEO Kanya King CBE, and "The Phonebox Millionnaire" Stephen Fear.
 
-# Hayley Parsons
-Hayley Parsons OBE, Welsh entrepreneur and founder of the price comparison website Go.Compare.
+# Hayley Parsons OBE
+Hayley Parsons, Welsh entrepreneur and founder of the price comparison website Go.Compare.
 
 ![Entrepreneur profiles](hp1.png)
 
 ![Entrepreneur profiles](hp2.png)
 
 # Kanya King CBE
-Kanya King CBE, founder of the MOBO Awards and one of the most influential figures in championing Black music in the UK.
+Kanya King, founder of the MOBO Awards and one of the most influential figures in championing Black music in the UK.
 
 ![Entrepreneur profiles](kk1.png)
 
