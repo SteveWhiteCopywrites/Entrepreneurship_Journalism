@@ -48,7 +48,7 @@ Joseph Clarke, Liverpool-born entrepreneur and founder of Spartacus Bubble Socce
 
 ## Tech Reporting
 
-### Amplifi: The First Unicorn in the Land of Dragons?
+### Amplyfi: The First Unicorn in the Land of Dragons?
 
 A feature exploring the growth of Cardiff-based technology company AMPLYFI and the rise of the Welsh startup ecosystem.
 
