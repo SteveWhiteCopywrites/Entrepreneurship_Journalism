@@ -41,6 +41,9 @@ This section highlights the stories of entrepreneur Ben Clifford, Birmingham-bor
 
 ![Entrepreneur_Features_and_Editorial](features.png)
 
+### Joseph Clarke
+Joseph Clarke, Liverpool-born entrepreneur and founder of Spartacus Bubble Soccer.
+
 ![Entrepreneur_Features_and_Editorial](ball1.png)
 
 ## Tech Reporting
