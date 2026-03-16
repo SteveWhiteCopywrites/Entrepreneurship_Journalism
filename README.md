@@ -1,5 +1,5 @@
 # Entrepreneurship Journalism
-A portfolio of entrepreneurship journalism and editorial work produced for the Great British Entrepreneur Awards, including interviews, profiles and feature reporting on founders, SMEs, and business leaders across the UK.
+A portfolio of my entrepreneurship journalism and editorial work produced for the Great British Entrepreneur Awards, including interviews, profiles and feature reporting on founders, SMEs, and business leaders across the UK.
 
 During my time working with the Great British Entrepreneur Awards, I served as **co-writer and co-editor of *Entrepreneurs GB Magazine***.
 
@@ -10,7 +10,7 @@ The publication featured interviews, profiles and feature reporting on leading U
 
 ## Entrepreneur Profiles, Q&A
 
-Profiles from *Entrepreneurs GB Magazine* exploring the experiences and perspectives of major UK entrepreneurs and business leaders, including Go.Compare founder Hayley Parsons OBE, MOBO Awards CEO Kanya King CBE, and "The Phonebox Millionnaire" Stephen Fear.
+Profiles I wrote for *Entrepreneurs GB Magazine* exploring the experiences and perspectives of major UK entrepreneurs and business leaders, including Go.Compare founder Hayley Parsons OBE, MOBO Awards CEO Kanya King CBE, and "The Phonebox Millionnaire" Stephen Fear.
 
 ### Hayley Parsons OBE
 Hayley Parsons, Welsh entrepreneur and founder of the price comparison website Go.Compare.
@@ -35,9 +35,9 @@ Bristol-born entrepreneur property magnate, Stephen Fear, founder of The Fear Gr
 
 ## Entrepreneur Features
 
-A selection of features from *Entrepreneurs GB Magazine*, highlighting emerging companies, founder stories and the wider UK startup ecosystem.
+A selection of features I wrote for *Entrepreneurs GB Magazine*, highlighting emerging companies, founder stories and the wider UK startup ecosystem.
 
-This section highlights the stories of entrepreneur Ben Clifford, Birmingham-born Angus Drummond, and Liverpool's Joseph Clarke, each of whom have overcome considerable personal challenges to succeed in business.
+This section highlights the stories of Bristolian, Ben Clifford, Birmingham-born Angus Drummond, and Liverpool's Joseph Clarke, each of whom have overcome considerable personal challenges to succeed in business.
 
 ![Entrepreneur_Features_and_Editorial](features.png)
 
@@ -50,14 +50,15 @@ Joseph Clarke, Liverpool-born entrepreneur and founder of Spartacus Bubble Socce
 
 ### Amplifi: The First Unicorn in the Land of Dragons?
 
-A feature exploring the growth of Cardiff-based technology company AMPLIFI and the rise of the Welsh startup ecosystem.
+A feature exploring the growth of Cardiff-based technology company AMPLYFI and the rise of the Welsh startup ecosystem.
+
 ![Amplifi feature page 1](amplyfi.png)
 
 ![Amplifi feature page 2](am1.png)
 
 ## Entrepreneur Q&A
 
-A series of Q&A interviews with emerging UK entrepreneurs exploring new ventures and the future of British business.
+A series of my Q&A interviews with emerging UK entrepreneurs exploring new ventures and the future of British business.
 
 ### Matt Jones
 Q&A with Welsh advertising entrepreneur, Matt Jones.
@@ -66,21 +67,19 @@ Q&A with Welsh advertising entrepreneur, Matt Jones.
 
 ![Entrepreneur Q&A article – example 1](MJ2.png)
 
-### Ben Francis: Gym Shark
+### Ben Francis: Gymshark
 Benjamin David Francis MBE is a British billionaire businessman. He is the co-founder, CEO and majority owner of Gymshark, a fitness apparel and accessories company founded in 2012.
 
 ![Entrepreneur Q&A article – example 1](gym.png)
 
 ### Ben Towers MBE
-Ben Towers, entrepreneur and founder of the digital marketing agency Zest.
+Ben Towers, entrepreneur and founder of the digital marketing agency, Zest.
 
 ![Entrepreneur Q&A article – example 1](towers.png)
 
 ## Short-Form Editorial and Copywriting
 
-Examples of short-form editorial writing and caption copy produced for *Entrepreneurs GB Magazine*.
-
-This work includes entrepreneur mini-profiles, product features and curated list content written to accompany editorial photography and award coverage.
+Examples of my short-form editorial writing and caption copy produced for *Entrepreneurs GB Magazine*. The work includes entrepreneur mini-profiles, product features and curated list content written to accompany editorial photography and award coverage.
 
 ![Editorial copy examples](gbea_copy.png)
 
