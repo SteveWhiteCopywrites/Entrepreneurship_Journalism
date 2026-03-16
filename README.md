@@ -37,7 +37,7 @@ Bristol-born entrepreneur property magnate, Stephen Fear, founder of The Fear Gr
 
 A selection of features from *Entrepreneurs GB Magazine*, highlighting emerging companies, founder stories and the wider UK startup ecosystem.
 
-This section highlights the story of entrepreneur Ben Clifford, Birmingham-born Angus Drummond, and Liverpool's Joseph Clarke, each of whom have overcome considerable personal challenges to succeed in business.
+This section highlights the stories of entrepreneur Ben Clifford, Birmingham-born Angus Drummond, and Liverpool's Joseph Clarke, each of whom have overcome considerable personal challenges to succeed in business.
 
 ![Entrepreneur_Features_and_Editorial](features.png)
 
