@@ -87,7 +87,7 @@ Examples of my short-form editorial writing and caption copy produced for *Entre
 
 <img src="images/NewProfiles.png" width="600">
 
-![Editorial copy examples](shortprofiles.png)
+<img src="images/Newchau.png" width="600">
 
-![Editorial copy examples](shortform_copy.png)
+<img src="images/Newtastes.png" width="600">
 
