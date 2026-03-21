@@ -65,9 +65,9 @@ A series of my Q&A interviews with emerging UK entrepreneurs exploring new ventu
 ### Matt Jones
 Q&A with Welsh advertising entrepreneur, Matt Jones.
 
-![Entrepreneur Q&A article – example 1](MJ1.png)
+<img src="images/MJ1" width="600">
 
-![Entrepreneur Q&A article – example 1](MJ2.png)
+<img src="images/MJ2" width="600">
 
 ### Ben Francis: Gymshark
 Benjamin David Francis MBE is a British billionaire businessman. He is the co-founder, CEO and majority owner of Gymshark, a fitness apparel and accessories company founded in 2012.
