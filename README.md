@@ -83,7 +83,9 @@ Ben Towers, entrepreneur and founder of the digital marketing agency, Zest.
 
 Examples of my short-form editorial writing and caption copy produced for *Entrepreneurs GB Magazine*. The work includes entrepreneur mini-profiles, product features and curated list content written to accompany editorial photography and award coverage.
 
-![Editorial copy examples](gbea_copy.png)
+<img src="images/Newgbeacopy.png" width="600">
+
+<img src="images/NewProfiles.png" width="600">
 
 ![List and caption copy](lists.png)
 
