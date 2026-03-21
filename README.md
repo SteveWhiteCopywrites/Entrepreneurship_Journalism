@@ -6,7 +6,8 @@ Entrepreneurship journalism and editorial work produced while Head of Content at
 During my time working with the Great British Entrepreneur Awards, I was also **co-writer and co-editor of *Entrepreneurs GB* Magazine**. The publication featured interviews, profiles and feature reporting on leading UK entrepreneurs, startup founders and emerging businesses.
 
 ## *Entrepreneurs GB* Magazines – Spring 2018 & 2019
-![Entrepreneurs GB Magazine covers](egb_covers.png)
+
+<img src="images/egb_covers.png" alt="..." style="max-width:600px; width:100%;">
 
 ## Entrepreneur Profiles, Q&A
 
