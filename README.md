@@ -16,9 +16,9 @@ Profiles I wrote for *Entrepreneurs GB Magazine* exploring the experiences and p
 ### Hayley Parsons OBE
 Hayley Parsons, Welsh entrepreneur and founder of the price comparison website Go.Compare.
 
-![Entrepreneur profiles](hp1.png)
+<img src="images/hp1.png" width="600">
 
-![Entrepreneur profiles](hp2.png)
+<img src="images/hp2.png" width="600">
 
 ### Kanya King CBE
 Kanya King, founder of the MOBO Awards and one of the most influential figures in championing Black music in the UK.
