@@ -7,9 +7,7 @@ During my time working with the Great British Entrepreneur Awards, I was also **
 
 ## *Entrepreneurs GB* Magazines – Spring 2018 & 2019
 
-<p>
-  <img src="images/egb_covers.png" alt="Article preview" style="max-width:600px; width:100%;">
-</p>
+<img src="images/egb_covers.png" width="600">
 
 ## Entrepreneur Profiles, Q&A
 
