@@ -23,11 +23,12 @@ Hayley Parsons, Welsh entrepreneur and founder of the price comparison website G
 ### Kanya King CBE
 Kanya King, founder of the MOBO Awards and one of the most influential figures in championing Black music in the UK.
 
-![Entrepreneur profiles](kk1.png)
+<img src="images/kk1.png" width="600">
 
-![Entrepreneur profiles](kk2.png)
+<img src="images/kk2.png" width="600">
 
-![Entrepreneur profiles](kk3.png)
+<img src="images/kk3.png" width="600">
+
 
 ### Stephen Fear
 Bristol-born entrepreneur property magnate, Stephen Fear, founder of The Fear Group and known as _The Phonebox Millionnaire_.
