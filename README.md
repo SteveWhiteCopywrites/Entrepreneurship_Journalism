@@ -9,7 +9,7 @@ During my time working with the Great British Entrepreneur Awards, I was also **
 
 <img src="images/egb_covers.png" width="600">
 
-## Entrepreneur Profiles, Q&A
+## Entrepreneur Profiles
 
 Profiles I wrote for *Entrepreneurs GB Magazine* exploring the experiences and perspectives of major UK entrepreneurs and business leaders, including Go.Compare founder Hayley Parsons OBE, MOBO Awards CEO Kanya King CBE, and "The Phonebox Millionnaire" Stephen Fear.
 
