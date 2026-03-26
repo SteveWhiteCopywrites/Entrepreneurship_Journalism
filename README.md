@@ -14,14 +14,14 @@ During my time working with the Great British Entrepreneur Awards, I was also **
 Profiles I wrote for *Entrepreneurs GB Magazine* exploring the experiences and perspectives of major UK entrepreneurs and business leaders, including Go.Compare founder Hayley Parsons OBE, MOBO Awards CEO Kanya King CBE, and "The Phonebox Millionnaire" Stephen Fear.
 
 ### Hayley Parsons OBE
-Hayley Parsons, Welsh entrepreneur and founder of the price comparison website Go.Compare.
+Hayley Parsons, Welsh entrepreneur and founder of the price comparison website Go.Compare. (Full article)
 
 <img src="images/hp1.png" width="600">
 
 <img src="images/hp2.png" width="600">
 
 ### Kanya King CBE
-Kanya King, founder of the MOBO Awards and one of the most influential figures in championing Black music in the UK.
+Kanya King, founder of the MOBO Awards and one of the most influential figures in championing Black music in the UK. (Full article)
 
 <img src="images/kk1.png" width="600">
 
@@ -31,7 +31,7 @@ Kanya King, founder of the MOBO Awards and one of the most influential figures i
 
 
 ### Stephen Fear
-Bristol-born entrepreneur property magnate, Stephen Fear, founder of The Fear Group and known as _The Phonebox Millionnaire_.
+Bristol-born entrepreneur property magnate, Stephen Fear, founder of The Fear Group and known as _The Phonebox Millionnaire_. (Full article)
 
 <img src="images/Fear1.png" width="600">
 
@@ -44,7 +44,7 @@ Bristol-born entrepreneur property magnate, Stephen Fear, founder of The Fear Gr
 A selection of features I wrote for *Entrepreneurs GB Magazine*, highlighting emerging companies, founder stories and the wider UK startup ecosystem. Each of the pioneers below has overcome considerable personal challenges to succeed in business.
 
 ### Ben Clifford
-Ben is the founder, lead director and head coach at Swansea-based [Surfability UK CIC](https://surfabilityukcic.org/) which provides surfing lessons and experiences for people with additional needs due to disability, illness, injury or learning difficulties.
+Ben is the founder, lead director and head coach at Swansea-based [Surfability UK CIC](https://surfabilityukcic.org/) which provides surfing lessons and experiences for people with additional needs due to disability, illness, injury or learning difficulties. (Full article)
 
 <img src="images/SURFABILITY1.png" width="600">   
 
@@ -55,10 +55,10 @@ Ben is the founder, lead director and head coach at Swansea-based [Surfability U
 <img src="images/SURFABILITY4.png" width="600">
 
 ### Angus Drummond
-
+(Feature snapshot)
 
 ### Joseph Clarke
-Joseph Clarke, Liverpool-born entrepreneur and founder of Spartacus Bubble Soccer.
+Joseph Clarke, Liverpool-born entrepreneur and founder of Spartacus Bubble Soccer. (Full article)
 
 ![Entrepreneur_Features_and_Editorial](ball1.png)
 
@@ -66,7 +66,7 @@ Joseph Clarke, Liverpool-born entrepreneur and founder of Spartacus Bubble Socce
 
 ### Amplyfi: The First Unicorn in the Land of Dragons?
 
-A feature exploring the growth of Cardiff-based technology company AMPLYFI and the rise of the Welsh startup ecosystem.
+A feature exploring the growth of Cardiff-based technology company AMPLYFI and the rise of the Welsh startup ecosystem. (Full article)
 
 ![Amplifi feature page 1](amplyfi.png)
 
@@ -77,19 +77,19 @@ A feature exploring the growth of Cardiff-based technology company AMPLYFI and t
 A series of my Q&A interviews with emerging UK entrepreneurs exploring new ventures and the future of British business.
 
 ### Matt Jones
-Q&A with Welsh advertising entrepreneur, Matt Jones.
+Q&A with Welsh advertising entrepreneur, Matt Jones. (Full article)
 
 <img src="images/NewMJ1.png" width="600">
 
 <img src="images/NewMJ2.png" width="600">
 
 ### Ben Francis: Gymshark
-Benjamin David Francis MBE is a British billionaire businessman. He is the co-founder, CEO and majority owner of Gymshark, a fitness apparel and accessories company founded in 2012.
+Benjamin David Francis MBE is a British billionaire businessman. He is the co-founder, CEO and majority owner of Gymshark, a fitness apparel and accessories company founded in 2012. (Full article)
 
 <img src="images/Newgym.png" width="600">
 
 ### Ben Towers MBE
-Ben Towers, entrepreneur and founder of the digital marketing agency, Zest.
+Ben Towers, entrepreneur and founder of the digital marketing agency, Zest. 
 
 <img src="images/NewTowers.png" width="600">
 
