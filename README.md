@@ -80,9 +80,9 @@ A feature exploring the growth of Cardiff-based technology company AMPLYFI and t
 
 <img src="images/Amplyfi2.png" width="600">
 
-<img src="images/Amplyfi3.png" width="600">
+<img src="images/Amplyfi3N.png" width="600">
 
-<img src="images/Amplyfi4.png" width="600">
+<img src="images/Amplyfi4N.png" width="600">
 
 ## Entrepreneur Q&A
 
