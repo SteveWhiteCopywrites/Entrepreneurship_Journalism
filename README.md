@@ -35,6 +35,10 @@ Bristol-born entrepreneur property magnate, Stephen Fear, founder of The Fear Gr
 
 <img src="images/Fear1.png" width="600">
 
+<img src="images/Fear2.png" width="600">
+
+<img src="images/Fear3.png" width="600">
+
 ## Entrepreneur Features
 
 A selection of features I wrote for *Entrepreneurs GB Magazine*, highlighting emerging companies, founder stories and the wider UK startup ecosystem.
