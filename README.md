@@ -55,7 +55,13 @@ Ben is the founder, lead director and head coach at Swansea-based [Surfability U
 <img src="images/SURFABILITY4.png" width="600">
 
 ### Angus Drummond
-(Feature snapshot)
+Angus Drummond, a Birmingham-born entrepreneur and founder of [Limitless Travel](https://www.limitlesstravel.org/), is transforming accessible travel through lived experience.
+
+<img src="images/AD1.png" width="600">
+
+<img src="images/AD2.png" width="600">
+
+<img src="images/AD3.png" width="600">
 
 ### Joseph Clarke
 Joseph Clarke, Liverpool-born entrepreneur and founder of Spartacus Bubble Soccer. (Full article)
