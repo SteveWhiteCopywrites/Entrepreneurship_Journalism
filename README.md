@@ -41,9 +41,10 @@ Bristol-born entrepreneur property magnate, Stephen Fear, founder of The Fear Gr
 
 ## Entrepreneur Features
 
-A selection of features I wrote for *Entrepreneurs GB Magazine*, highlighting emerging companies, founder stories and the wider UK startup ecosystem.
+A selection of features I wrote for *Entrepreneurs GB Magazine*, highlighting emerging companies, founder stories and the wider UK startup ecosystem. Each of the pioneers below has overcome considerable personal challenges to succeed in business.
 
-This section highlights the stories of Bristolian, Ben Clifford, Birmingham-born Angus Drummond, and Liverpool's Joseph Clarke, each of whom have overcome considerable personal challenges to succeed in business.
+### Ben Clifford
+Ben is the founder, lead director and head coach at Swansea-based [Surfability UK CIC](https://surfabilityukcic.org/) which provides surfing lessons and experiences for people with additional needs due to disability, illness, injury or learning difficulties.
 
 <img src="images/SURFABILITY1.png" width="600">   
 
@@ -52,6 +53,9 @@ This section highlights the stories of Bristolian, Ben Clifford, Birmingham-born
 <img src="images/SURFABILITY3.png" width="600">
 
 <img src="images/SURFABILITY4.png" width="600">
+
+### Angus Drummond
+
 
 ### Joseph Clarke
 Joseph Clarke, Liverpool-born entrepreneur and founder of Spartacus Bubble Soccer.
