@@ -76,9 +76,13 @@ Joseph Clarke, Liverpool-born entrepreneur and founder of [Spartacus Bubble Socc
 
 A feature exploring the growth of Cardiff-based technology company AMPLYFI and the rise of the Welsh startup ecosystem. 
 
-![Amplifi feature page 1](amplyfi.png)
+<img src="images/Amplyfi1.png" width="600">
 
-![Amplifi feature page 2](am1.png)
+<img src="images/Amplyfi2.png" width="600">
+
+<img src="images/Amplyfi3.png" width="600">
+
+<img src="images/Amplyfi4.png" width="600">
 
 ## Entrepreneur Q&A
 
