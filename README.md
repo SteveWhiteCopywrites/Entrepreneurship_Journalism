@@ -89,7 +89,7 @@ Benjamin David Francis MBE is a British billionaire businessman. He is the co-fo
 <img src="images/Newgym.png" width="600">
 
 ### Ben Towers MBE
-Ben Towers, entrepreneur and founder of the digital marketing agency, Zest. 
+Ben Towers, entrepreneur and founder of the digital marketing agency, Zest. (Full article)
 
 <img src="images/NewTowers.png" width="600">
 
