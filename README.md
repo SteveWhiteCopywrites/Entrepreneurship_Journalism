@@ -45,7 +45,13 @@ A selection of features I wrote for *Entrepreneurs GB Magazine*, highlighting em
 
 This section highlights the stories of Bristolian, Ben Clifford, Birmingham-born Angus Drummond, and Liverpool's Joseph Clarke, each of whom have overcome considerable personal challenges to succeed in business.
 
-![Entrepreneur_Features_and_Editorial](features.png)
+<img src="images/SURFABILITY1" width="600">
+
+<img src="images/SURFABILITY2" width="600">
+
+<img src="images/SURFABILITY3" width="600">
+
+<img src="images/SURFABILITY4" width="600">
 
 ### Joseph Clarke
 Joseph Clarke, Liverpool-born entrepreneur and founder of Spartacus Bubble Soccer.
