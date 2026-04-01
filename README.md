@@ -149,5 +149,7 @@ Examples of my short-form editorial writing and caption copy produced for *Entre
 
 <img src="images/Newchau.png" width="600">
 
+---
+
 <img src="images/Newtastes.png" width="600">
 
