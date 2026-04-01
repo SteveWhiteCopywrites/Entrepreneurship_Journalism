@@ -18,6 +18,8 @@ Hayley Parsons, Welsh entrepreneur and founder of the price comparison website G
 
 <img src="images/hp1.png" width="600">
 
+---
+
 <img src="images/hp2.png" width="600">
 
 ### Kanya King CBE
@@ -25,7 +27,11 @@ Kanya King, founder of the MOBO Awards and one of the most influential figures i
 
 <img src="images/kk1.png" width="600">
 
+---
+
 <img src="images/kk2.png" width="600">
+
+---
 
 <img src="images/kk3.png" width="600">
 
@@ -35,7 +41,11 @@ Bristol-born entrepreneur property magnate, Stephen Fear, founder of The Fear Gr
 
 <img src="images/Fear1.png" width="600">
 
+---
+
 <img src="images/Fear2.png" width="600">
+
+---
 
 <img src="images/Fear3.png" width="600">
 
@@ -46,11 +56,17 @@ A selection of features I wrote for *Entrepreneurs GB Magazine*, highlighting em
 ### Ben Clifford
 Ben is the founder, lead director and head coach at Swansea-based [Surfability UK CIC](https://surfabilityukcic.org/) which provides surfing lessons and experiences for people with additional needs due to disability, illness, injury or learning difficulties.
 
-<img src="images/SURFABILITY1.png" width="600">   
+<img src="images/SURFABILITY1.png" width="600">
+
+---
 
 <img src="images/SURFABILITY2.png" width="600">
 
+---
+
 <img src="images/SURFABILITY3.png" width="600">
+
+---
 
 <img src="images/SURFABILITY4.png" width="600">
 
@@ -59,7 +75,11 @@ Angus Drummond, a Birmingham-born entrepreneur and founder of [Limitless Travel]
 
 <img src="images/AD1.png" width="600">
 
+---
+
 <img src="images/AD2.png" width="600">
+
+---
 
 <img src="images/AD4.png" width="600">
 
@@ -67,6 +87,8 @@ Angus Drummond, a Birmingham-born entrepreneur and founder of [Limitless Travel]
 Joseph Clarke, Liverpool-born entrepreneur and founder of [Spartacus Bubble Soccer](https://spartacusbubblesoccer.co.uk/).
 
 <img src="images/bubble1.png" width="600">
+
+---
 
 <img src="images/bubble2.png" width="600">
 
@@ -78,9 +100,15 @@ A feature exploring the growth of Cardiff-based technology company AMPLYFI and t
 
 <img src="images/Amplyfi1.png" width="600">
 
+---
+
 <img src="images/Amplyfi2.png" width="600">
 
+---
+
 <img src="images/Amplyfi3N.png" width="600">
+
+---
 
 <img src="images/Amplyfi4N.png" width="600">
 
@@ -92,6 +120,8 @@ A series of my Q&A interviews with emerging UK entrepreneurs exploring new ventu
 Q&A with Welsh advertising entrepreneur, Matt Jones. 
 
 <img src="images/NewMJ1.png" width="600">
+
+---
 
 <img src="images/NewMJ2.png" width="600">
 
@@ -111,7 +141,11 @@ Examples of my short-form editorial writing and caption copy produced for *Entre
 
 <img src="images/Newgbeacopy.png" width="600">
 
+---
+
 <img src="images/NewProfiles.png" width="600">
+
+---
 
 <img src="images/Newchau.png" width="600">
 
