@@ -3,15 +3,15 @@
 
 Entrepreneurship journalism and editorial work produced while Head of Content at [The Great British Entrepreneur Awards](https://greatbritishentrepreneurawards.com/), including interviews, profiles and feature reporting on founders, SMEs, and business leaders across the UK. 
 
-During my time working with the Great British Entrepreneur Awards, I was also **co-writer and co-editor of *Entrepreneurs GB* Magazine**. The publication featured interviews, profiles and feature reporting on leading UK entrepreneurs, startup founders and emerging businesses.
+During my time working with the Great British Entrepreneur Awards, I was also **co-writer and co-editor of *GB Entrepreneurs* Magazine**. The publication featured interviews, profiles and feature reporting on leading UK entrepreneurs, startup founders and emerging businesses.
 
-## *Entrepreneurs GB* Magazines – Spring 2018 & 2019
+## *GB Entrepreneurs* Magazines – Spring 2018 & 2019
 
 <img src="images/egb_covers.png" width="600">
 
 ## Entrepreneur Profiles
 
-Profiles I wrote for *Entrepreneurs GB Magazine* exploring the experiences and perspectives of major UK entrepreneurs and business leaders, including Go.Compare founder Hayley Parsons OBE, MOBO Awards CEO Kanya King CBE, and "The Phonebox Millionnaire" Stephen Fear.
+Profiles I wrote for *GB Entrepreneurs* magazine exploring the experiences and perspectives of major UK entrepreneurs and business leaders, including Go.Compare founder Hayley Parsons OBE, MOBO Awards CEO Kanya King CBE, and "The Phonebox Millionnaire" Stephen Fear.
 
 ### Hayley Parsons OBE
 Hayley Parsons, Welsh entrepreneur and founder of the price comparison website Go.Compare.
